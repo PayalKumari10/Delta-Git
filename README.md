@@ -1,2 +1,2 @@
 # Delta-Git
-About Git and GitHub
+About Git and GitHub.
